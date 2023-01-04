@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Jogo da Memória
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi feito em aula do curso [B7Web](https://b7web.com.br)
 
 ## Available Scripts
 
